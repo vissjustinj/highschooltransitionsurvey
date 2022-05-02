@@ -27,7 +27,7 @@ export default function Home() {
 				</Link>
 
 				<iframe
-					width="500"
+					width="80%"
 					height="400"
 					id="getstartedvid"
 					src="https://www.youtube.com/embed/6JL2htnXq2g"
