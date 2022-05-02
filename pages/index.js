@@ -1,5 +1,4 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import styles from '../styles/Home.module.css';
 import Link from 'next/link';
 
@@ -32,9 +31,9 @@ export default function Home() {
 					id="getstartedvid"
 					src="https://www.youtube.com/embed/6JL2htnXq2g"
 					title="Automatically Write HS Transition Survey"
-					frameborder="0"
+					frameBorder="0"
 					allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-					allowfullscreen
+					allowFullScreen
 				/>
 			</div>
 
