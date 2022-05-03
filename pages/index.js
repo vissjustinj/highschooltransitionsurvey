@@ -16,7 +16,7 @@ export default function Home() {
 			</Head>
 
 			<div className="ui raised segment" id="getstarted">
-				<h1>Automatically Write HS Transition Survey</h1>
+				<h1>HS Transition Survey</h1>
 				<h3>Write your report while you're interviewing students about their post-high school plans</h3>
 
 				<Link href="/write" prefetch>

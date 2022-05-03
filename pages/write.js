@@ -4,7 +4,7 @@ import Head from 'next/head';
 
 function Write() {
 	return (
-		<div>
+		<div style={{ height: '100%' }}>
 			<Head>
 				<title>High School Transition Survey</title>
 				<meta name="description" content="Automatically write your high school transition survey" />
