@@ -1,4 +1,3 @@
-import { Widget } from '@typeform/embed-react';
 import JotformEmbed from 'react-jotform-embed';
 
 function Typeform() {
