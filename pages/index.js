@@ -13,12 +13,6 @@ export default function Home() {
 					rel="stylesheet"
 					href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"
 				/>
-
-				<script async src="https://www.googletagmanager.com/gtag/js?id=G-QTLF2CG3ED" />
-				<script>
-					window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments)}
-					gtag('js', new Date()); gtag('config', 'G-QTLF2CG3ED');
-				</script>
 			</Head>
 
 			<div className="ui raised segment" id="getstarted">
