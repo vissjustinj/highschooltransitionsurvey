@@ -1,10 +1,11 @@
 import { Widget } from '@typeform/embed-react';
+import JotformEmbed from 'react-jotform-embed';
 
 function Typeform() {
 	return (
 		<div style={{ height: '100%' }}>
 			<h2>The Survey</h2>
-			<Widget id="AzkmxzSB" style={{ width: '100%', height: '90%' }} className="my-form" />
+			<JotformEmbed src="https://form.jotform.com/222717107340144" />
 		</div>
 	);
 }
